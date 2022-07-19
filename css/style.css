@@ -1,0 +1,25 @@
+body {
+    background-color: #29A864;
+    padding-top: 15px;
+}
+
+input {
+    margin-right: 10px;
+    max-width: 250px;
+    width: 100%;
+    padding-left: 17px;
+    padding-bottom: 4px;
+    border: none;
+    border-radius: 15px;
+}
+
+form {
+    margin-bottom: 40px;
+}
+
+.h1 {
+    margin-bottom: 30px;
+}
+.h2 {
+    color: rgb(106, 255, 0);
+}
